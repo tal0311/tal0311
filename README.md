@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) --!>
 <h1 align="center">Hi 👋, I'm Tal</h1>
-<h3 align="center">A skilled software developer from Israel</h3>
+<h3 align="center">A skilled software developer from Israel </h3>
 <center>
 <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=900&t=st=1683438089~exp=1683438689~hmac=6591d383fc3a316eabe2ee43ecb8e78ef6738ef480dc88ffc1ad789bc56b8c55"/>
 </center>
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@talamit82" target="blank"><img src="https://img.shields.io/twitter/follow/@talamit82?logo=twitter&style=for-the-badge" alt="@talamit82" /></a> </p>
 
-- 🔭 I’m currently working on [Instagram clone](https://github.com/tal0311/instagram-app-frontend)<br>  
+- 🔭 I’m currently working on <a href="https://github.com/tal0311/instagram-app-frontend">Instagram clone</a> and npm  <a href="https://github.com/tal0311/http-package"> http package</a>, replacment for axios. <br>  
 
 - 🌱 I’m currently learning <b>Web RTC, Cyber Security, Web app Security</b> <br>
 
