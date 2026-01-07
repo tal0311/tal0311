@@ -12,10 +12,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tal0311" alt="tal0311" /></a> </p>
 
 
-<center>
-<p align="center" > <a href="https://twitter.com/@talamit82" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@talamit82" /></a> <a href="https://www.instagram.com/tal.amit/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@talamit82" /></a> </p>
-<p align="center">  </p>
-</center>
 
 - 🔭 I’m currently working on <a href="https://www.inter-vid.com/">Inter-Vid | create and share job interviews</a> <br>
 
